@@ -22,9 +22,12 @@ _testmain.go
 *.exe
 *.test
 *.prof
+<<<<<<< HEAD
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
 # external packages folder
 vendor/
+=======
+>>>>>>> d726b5a5820d0cc82583b5ee18710dded6f3322c
